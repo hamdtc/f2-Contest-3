@@ -18,7 +18,7 @@ let tableData=[];
  let btn=document.createElement("button")
    btn.style.backgroundColor='black'
    btn.style.color='white'
-   btn.style.padding='5px'
+   btn.style.padding='5px 20px'
    btn.innerText="save";
 
    let inp2=document.createElement("input")

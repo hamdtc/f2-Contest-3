@@ -16,7 +16,7 @@
     margin: 30px  80px;
     background-color: black;
     color: white;
-    padding: 5px 10px;
+    padding: 10px 10px;
 }
 table {
     margin: auto;
@@ -26,12 +26,13 @@ table {
     border: 1px solid black;
 }
 th{
-    border-bottom: 2px solid black;
-    border-right: 1px solid black;
+    border: 2px solid black;
+    
     padding: 10px 15px;
 }
 tbody tr td{
     border-right: 1px solid black;
+    border-bottom: 1px solid black;
     text-align: center;
     
     height: 50px;
